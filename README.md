@@ -78,9 +78,6 @@ Evaluate the hidden costs of AI adoption by examining how AI usage intensity, to
 
 > 🔒 **Security:** never commit API keys, ngrok tokens, or project credentials. Store secrets in environment variables or Colab secrets.
 
-## 📄 Full Report
-
-See the [project report](report/AI_Workforce_Attrition_End_to_End_Project_Report.pdf) for the complete write-up.
 
 ## 👩‍💻 Author
 
