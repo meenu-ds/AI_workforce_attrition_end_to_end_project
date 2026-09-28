@@ -2,7 +2,7 @@
 
 An end-to-end data analytics project that measures how AI adoption relates to employee burnout, job satisfaction, fear of job displacement, and attrition risk. It combines **SQL (Google BigQuery)**, a **Power BI dashboard**, and a **GenAI Q&A layer** (Gemini 2.5 Pro on Vertex AI) served through a **Streamlit** app.
 
-![Power BI dashboard](images/dashboard.png)
+![Power BI dashboard](dashboard.png)
 
 ## 🎯 Business Problem
 
