@@ -67,18 +67,7 @@ Evaluate the hidden costs of AI adoption by examining how AI usage intensity, to
 
 **Response (abridged):** Automotive has the highest burnout (65.00) and lowest satisfaction (2.47), a critical welfare issue and a primary attrition driver. Use AI to automate replaceable tasks to reduce workload, and communicate clearly to manage fear of replacement.
 
-## 📁 Repository Structure
 
-```
-.
-├── sql/                 # BigQuery queries (profiling, KPIs, analysis)
-├── powerbi/             # Power BI file and dashboard PDF
-├── notebook/            # Google Colab notebook (BigQuery + Gemini)
-├── app.py               # Streamlit app
-├── images/              # Dashboard screenshot
-├── report/              # Full project report
-└── README.md
-```
 
 ## ▶️ How to Run
 
